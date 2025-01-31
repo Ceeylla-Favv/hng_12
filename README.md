@@ -1,6 +1,6 @@
-# **HNG12 Stage 0 - Public API**  
+# **HNG12 Stage 0 API**  
 
-This is a simple **public API** built using **Node.js and Express.js** for **HNG12 Stage 0**. The API provides the following information:  
+This is a simple **API** built using **Node.js and Express.js** for **HNG12 Stage 0**. The API provides the following information:  
 
 - Your **HNG12 registered email**  
 - The **current date and time** in **ISO 8601 format** (UTC)  
